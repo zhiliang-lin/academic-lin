@@ -10,31 +10,33 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Digital Divide",
+    "Knowledge Gap",
+    "Science Communication"
   ]
 
 # List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+#[[education.courses]]
+#  course = "PhD in Artificial Intelligence"
+#  institution = "Stanford University"
+#  year = 2012
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "M.A. in Communication"
+  institution = "Jinan University"
+  year = "2019(Expected)"
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "B.A. in Journalism"
+  institution = "Southwestern University of Financie and Econometrics"
+  year = 2015
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Zhiliang Lin is currently a graduate student in Jinan Univeristy(Guangzhou), majoring in Communication.Befroe coming to Jinan University,he got a bachelor degree in Journalism from Southwestern University of Finance and Economics,where he also took some courses on Economics and Management.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Lin is eager to use quantative research method to study the human communication phenomenon.His reseacher intertests currently involve digital divide, knowledge gap，information diffusion, science communication.
+
+Lin has grasped different research tools to boost his research, such as SPSS,R,CiteSpace,Ucinet and etc.He also has the basic knowledge of Python programming.
