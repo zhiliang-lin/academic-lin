@@ -23,8 +23,8 @@ date_format = "January 2006"
   company = "Shenzhen University"
   company_url = ""
   location = ""
-  date_start = "March 2018"
-  date_end = "July 2018"
+  date_start = "2018-03-01"
+  date_end = "2018-07-01"
   description = """
   Responsibilities include:
   
