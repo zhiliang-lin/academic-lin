@@ -23,14 +23,14 @@ date_format = "January 2006"
   company = "Shenzhen University"
   company_url = ""
   location = ""
-  date_start = "Mar, 2018"
-  date_end = "July, 2018"
+  date_start = "2018-03-01"
+  date_end = "2018-07-01"
   description = """
   Responsibilities include:
   
   * Prepare data and SparklyR code for the test of Hadoop platform of Big Data Lab
-  * Teach SPSS and R language manipulations for fresh graduate students
-  * Help write articles on the theme of public opinion for the government of Shenzhen
+  * Modelling
+  * Deploying
   """
 
 +++
