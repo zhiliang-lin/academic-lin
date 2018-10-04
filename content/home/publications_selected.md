@@ -6,7 +6,7 @@ widget = "publications_selected"
 active = true
 date = 2016-04-20T00:00:00
 
-title = "Selected Publications"
+title = "Publications"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -17,8 +17,11 @@ weight = 10
 #   1 = Detailed
 #   2 = APA
 #   3 = MLA
-list_format = 1
-
+list_format = 2
+- Guangchao Charles Feng., Yuting Zhang, & Zhiliang Lin. (2018,May). The effects of socio-demographic factors on social media divide: A meta-analytical review. Paper presented at the International Communication Association Annual Conference. Prague, Czech Republic.
+- Guangchao Charles Feng., Wanhua Ou., Zhiliang Lin., & Xianglin Su.  (2018,Aug).  Engagement in Cancer Screening: Theoretical Exploration Using A Meta-Analytical Structural Equation Modeling Approach. Paper accepted by the Association For Education In Journalism & Mass Communication Annual Conference. Washington, DC, USA.
+- 林志良. & 吴佳洪. (2017年4月). 20 年来我国新闻与传播学科里的马克思主义研究 ——基于 CNKI(1996-2016)数据的“学术地图”. 论文在重庆大学·“红色传承：马克思主义与中国新闻传播学”研讨会宣读. 重庆,中国.
+ 
 # Filter by publication type.
 # -1: Any
 #  0: Uncategorized
