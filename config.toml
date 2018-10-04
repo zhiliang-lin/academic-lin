@@ -9,7 +9,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "Zhiliang Lin"
+title = "Zhiliang Lin 林志良"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -51,7 +51,7 @@ enableGitInfo = false
   # AUTHOR SETUP
 
   # Your details.
-  name = "Zhiliang Lin 林志良"
+  name = "Zhiliang Lin"
   role = ""
 
   # Organizations/Affiliations.
