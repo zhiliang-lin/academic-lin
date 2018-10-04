@@ -19,7 +19,7 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Research Assistant "
+  title = "Research Assistant"
   company = "Shenzhen University"
   company_url = ""
   location = ""
@@ -29,8 +29,8 @@ date_format = "January 2006"
   Responsibilities include:
   
   * Prepare data and SparklyR code for the test of Hadoop platform of Big Data Lab
-  * Modelling
-  * Deploying
+  * Teach SPSS and R language manipulations for fresh graduate students
+  * Help write articles on the theme of public opinion for the government of Shenzhen
   """
 
 +++
