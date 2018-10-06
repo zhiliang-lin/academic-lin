@@ -42,7 +42,8 @@ date_format = "January 2006"
   date_end = "2016-12-01"
   description = """
   Responsibilities include:
+  
   * Help with assignment of the class
-  * Other responsibilities,such as examination-monitor, correct bachelor students' exam"""
+  * Other responsibilities, such as examination-monitor, correct bachelor students' exam"""
   
 +++
