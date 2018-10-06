@@ -32,7 +32,8 @@ date_format = "January 2006"
   * Teach SPSS and R language manipulations for fresh graduate students
   * Help write articles on the theme of public opinion for the government of Shenzhen
   """
-[[experience]]
+
+ [[experience]]
   title = "Teaching Assistant"
   company = "Jinan University"
   company_url = ""
@@ -40,9 +41,7 @@ date_format = "January 2006"
   date_start = "2016-09-01"
   date_end = "2016-12-01"
   description = """
-  Responsibilities include:
-  
   * Help with assignment of the class
-  * Other responsibilities,such as examination-monitor, correct bachelor students' exam
+  * Other responsibilities,such as examination-monitor, correct bachelor students' exam"""
   
 +++
