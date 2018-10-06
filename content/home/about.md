@@ -12,7 +12,9 @@ weight = 5
   interests = [
     "Digital Divide",
     "Knowledge Gap",
-    "Science Communication"
+    "Science Communication",
+	"Quantitative Methods",
+	"Computational Social Science"	
   ]
 
 # List your qualifications (such as academic degrees).
