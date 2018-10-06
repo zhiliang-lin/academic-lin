@@ -28,8 +28,8 @@ date_format = "January 2006"
   description = """
   Responsibilities include:
   
-  * Prepare data and SparklyR code for the test of Hadoop platform of Big Data Lab
-  * Teach SPSS and R language manipulations for fresh graduate students
+  * Prepare data and SparklyR code for the testing of Hadoop platform of Big Data Lab
+  * Teach SPSS and R manipulations for fresh graduate students
   * Help write articles on the theme of public opinion for the government of Shenzhen
   """
 
@@ -41,6 +41,7 @@ date_format = "January 2006"
   date_start = "2016-09-01"
   date_end = "2016-12-01"
   description = """
+  Responsibilities include:
   * Help with assignment of the class
   * Other responsibilities,such as examination-monitor, correct bachelor students' exam"""
   
