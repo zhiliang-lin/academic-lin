@@ -14,7 +14,7 @@ weight = 5
     "Knowledge Gap",
     "Science Communication",
 	"Quantitative Methods",
-	"Computational Social Science"	
+	"Computational Communication Science"	
   ]
 
 # List your qualifications (such as academic degrees).
@@ -41,4 +41,4 @@ Zhiliang Lin is currently a graduate student in Jinan Univeristy(Guangzhou), maj
 
 Lin is interested in using quantitative methods to study human communication phenomena. His reseacher interests currently involve digital divide, knowledge gap, information diffusion, science communication and etc.
 
-Lin has grasped different research tools to boost his research, such as SPSS, R, CiteSpace, Ucinet and etc. He also has the basic knowledge of Python programming.
+Lin has grasped different research tools to boost his researches, such as SPSS, R, CiteSpace, Ucinet and etc. He also has the basic knowledge of Python programming.
