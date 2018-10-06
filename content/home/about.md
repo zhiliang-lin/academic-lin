@@ -39,6 +39,6 @@ weight = 5
 
 Zhiliang Lin is currently a graduate student in Jinan Univeristy(Guangzhou), majoring in Communication.Befroe coming to Jinan University, he got a bachelor degree in Journalism from Southwestern University of Finance and Economics, where he also took some courses on Economics and Management.
 
-Lin is interested in using quantitative methods to study the human communication phenomenon. His reseacher interests currently involve digital divide, knowledge gap, information diffusion, science communication and etc.
+Lin is interested in using quantitative methods to study human communication phenomena. His reseacher interests currently involve digital divide, knowledge gap, information diffusion, science communication and etc.
 
 Lin has grasped different research tools to boost his research, such as SPSS, R, CiteSpace, Ucinet and etc. He also has the basic knowledge of Python programming.
