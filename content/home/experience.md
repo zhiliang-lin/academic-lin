@@ -31,7 +31,7 @@ date_format = "January 2006"
   * Prepare data and SparklyR code for the test of Hadoop platform of Big Data Lab
   * Teach SPSS and R language manipulations for fresh graduate students
   * Help write articles on the theme of public opinion for the government of Shenzhen
-
+  """
 [[experience]]
   title = "Teaching Assistant"
   company = "Jinan University"
@@ -44,6 +44,5 @@ date_format = "January 2006"
   
   * Help with assignment of the class
   * Other responsibilities,such as examination-monitor, correct bachelor students' exam
-  """
-
+  
 +++
