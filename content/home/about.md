@@ -12,6 +12,7 @@ weight = 5
   interests = [
     "Digital Divide",
     "Knowledge Gap",
+	"Information Diffusion",
     "Science Communication",
 	"Quantitative Methods",
 	"Computational Communication Science"	
