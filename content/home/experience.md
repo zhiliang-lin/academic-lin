@@ -44,6 +44,7 @@ date_format = "January 2006"
   Responsibilities include:
   
   * Help with assignment of the class
-  * Other responsibilities, such as examination-monitor, correct bachelor students' exam"""
+  * Other responsibilities, such as examination-monitor, correct bachelor students' exam
+  """
   
 +++
