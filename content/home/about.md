@@ -42,4 +42,4 @@ Zhiliang Lin is currently a graduate student in Jinan Univeristy(Guangzhou), maj
 
 Lin is interested in using quantitative methods to study human communication phenomena. To learn statistics and programming skills,he has took some MOOC courses, audited courses and read some subject-related books.
 
-Lin has grasped different research tools to boost his research, such as SPSS, R, CiteSpace, Ucinet and etc. He also has the basic knowledge of Python programming.
+Lin has grasped different academic tools to boost his research, such as SPSS, R, CiteSpace, Ucinet and etc. He also has the basic knowledge of Python programming.
