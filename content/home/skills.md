@@ -34,9 +34,9 @@ weight = 7
   description = ""  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "chart-area"
   icon_pack = "fas"
-  name = "Photography"
+  name = "Data Viz"
   description = ""
 
 +++
