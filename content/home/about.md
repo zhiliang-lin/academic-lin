@@ -38,7 +38,7 @@ weight = 5
 
 # Biography
 
-Zhiliang Lin is currently a graduate student in Jinan Univeristy(Guangzhou), majoring in Communication.Befroe coming to Jinan University, he got a bachelor degree in Journalism from Southwestern University of Finance and Economics, where he also took some courses on Economics and Management.
+Zhiliang Lin currently is a graduate student in Jinan Univeristy(Guangzhou), majoring in Communication. Befroe coming to Jinan University, he got a bachelor degree in Journalism from Southwestern University of Finance and Economics, where he also took some courses on Economics and Management.
 
 Lin is interested in using quantitative methods to study human communication phenomena. To learn statistics and programming skills, he has took some  online and offline courses.
 
