@@ -10,12 +10,12 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Digital Divide",
-    "Knowledge Gap",
-	"Information Diffusion",
-    "Science Communication",
-	"Quantitative Methods",
-	"Computational Communication Science"	
+​    "Digital Divide",
+​    "Knowledge Gap",
+​	"Information Diffusion",
+​    "Science Communication",
+​	"Quantitative Methods",
+​	"Computational Communication Science"	
   ]
 
 # List your qualifications (such as academic degrees).
@@ -33,7 +33,7 @@ weight = 5
   course = "B.A. in Journalism"
   institution = "Southwestern University of Financie and Econometrics"
   year = 2015
- 
+
 +++
 
 # Biography

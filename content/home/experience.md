@@ -27,11 +27,11 @@ date_format = "January 2006"
   date_end = "2018-07-01"
   description = """
   Responsibilities include:
-  
+
   * Prepare data and SparklyR code for the testing of Hadoop platform of Big Data Lab
   * Teach SPSS and R manipulations for fresh graduate students
   * Help write articles on the theme of public opinion for the government of Shenzhen
-  """
+    """
 
  [[experience]]
   title = "Teaching Assistant"
@@ -42,9 +42,9 @@ date_format = "January 2006"
   date_end = "2016-12-01"
   description = """
   Responsibilities include:
-  
+
   * Help with assignment of the class
-  * Other responsibilities, such as examination-monitor, correct bachelor students' exam
-  """
-  
+  * Monitor the examination
+    """
+
 +++
