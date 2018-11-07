@@ -10,10 +10,15 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Digital Divide",
+    "Knowledge Gap",
+    "Information Diffusion"
+    "Science Communication",
+    "Quantitative Methods",
+    "Computational Communication Science"
   ]
+  
+
 
 # List your qualifications (such as academic degrees).
 #[[education.courses]]
