@@ -20,6 +20,7 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 #[[education.courses]]
+
 #  course = "PhD in Artificial Intelligence"
 #  institution = "Stanford University"
 #  year = 2012
@@ -43,3 +44,4 @@ Zhiliang Lin currently is a graduate student in Jinan Univeristy(Guangzhou), maj
 Lin is interested in using quantitative methods to study human communication phenomena. To learn statistics and programming skills, he has took some  online and offline courses.
 
 Lin has grasped different academic tools to boost his research, such as SPSS, R, CiteSpace, Ucinet and etc. He also has the basic knowledge of Python programming and know a little about Linux, shell, html and JavaScript.
+
