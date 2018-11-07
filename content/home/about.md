@@ -10,12 +10,10 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-​    "Digital Divide",
-​    "Knowledge Gap",
-​    "Information Diffusion"
-​    "Science Communication",
-​    "Quantitative Methods",
-​    "Computational Communication Science"]
+    "Artificial Intelligence",
+    "Computational Linguistics",
+    "Information Retrieval"
+  ]
 
 
 
