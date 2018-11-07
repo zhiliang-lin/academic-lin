@@ -15,8 +15,7 @@ weight = 5
 ​    "Information Diffusion"
 ​    "Science Communication",
 ​    "Quantitative Methods",
-​    "Computational Communication Science"
-  ]
+​    "Computational Communication Science"]
 
 
 
