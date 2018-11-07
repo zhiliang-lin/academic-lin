@@ -40,4 +40,5 @@ exclude_selected = false
 
 Wanhua Ou., **Zhiliang Lin**., Xianglin Su., & Guangchao Charles Feng.  (2018,Aug).  *Engagement in Cancer Screening: Theoretical Exploration Using A Meta-Analytical Structural Equation Modeling Approach*. Paper accepted by the Association For Education In Journalism & Mass Communication Annual Conference. Washington, DC, USA.
 
-**林志良**. & 吴佳洪. (2017年4月). *20 年来我国新闻与传播学科里的马克思主义研究 ——基于 CNKI(1996-2016)数据的“学术地图”*. 论文在重庆大学·“红色传承：马克思主义与中国新闻传播学”研讨会宣读. 重庆,中国.
+**(paper in Chinese**) **Zhiliang Lin**. & Jiahong Wu. (2017, April). *The Marxism in Chinese Journalism and Communication Studies: A bibliometric overview*. Paper presented at Red Heritage: Marxism and Chinese Journalism and Communication Consortium, Chongqing, China.
+
