@@ -16,7 +16,7 @@ weight = 5
 ​    "Science Communication",
 ​    "Quantitative Methods",
 ​    "Computational Communication Science"
-   ]
+  ]
 
 
 
