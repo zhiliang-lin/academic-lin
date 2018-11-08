@@ -5,7 +5,7 @@ widget = "publications"
 active = true
 date = 2016-04-20T00:00:00
 
-title = "Publications"
+title = "Papers"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -42,3 +42,4 @@ Wanhua Ou., **Zhiliang Lin**., Xianglin Su., & Guangchao Charles Feng.  (2018,Au
 
 **(paper in Chinese**) **Zhiliang Lin**. & Jiahong Wu. (2017, April). *The Marxism in Chinese Journalism and Communication Studies: A bibliometric overview*. Paper presented at Red Heritage: Marxism and Chinese Journalism and Communication Consortium, Chongqing, China.
 
+Xianglin Su., **Zhiliang Lin**., Yuting Zhang., & Guangchao Charles Feng. *Determinantsof technology acceptance: Two modeling-based meta-analytic reviews*. Paper submitted to 69th Annual ICA Conference, Washington, D.C.,USA.
