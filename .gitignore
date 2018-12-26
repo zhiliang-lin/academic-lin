@@ -2,3 +2,5 @@ public/
 .idea/
 config.toml
 themes/academic
+static/files/cv.pdf
+themes/academic
