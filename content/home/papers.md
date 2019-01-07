@@ -36,10 +36,10 @@ publication_type = "-1"
 exclude_selected = false
 +++
 
-**Zhiliang Lin**., Yuting Zhang, & Guangchao Charles Feng. (2018,May). *The effects of socio-demographic factors on social media divide: A meta-analytical review*. Paper <u>presented</u> at the International Communication Association Annual Conference. Prague, Czech Republic.
+**Zhiliang Lin**., Yuting Zhang, & Guangchao Charles Feng. (2018,May). *[The effects of socio-demographic factors on social media divide: A meta-analytical review](https://zhilianglin.com/files/paper1.pdf)*. Paper <u>presented</u> at the International Communication Association Annual Conference. Prague, Czech Republic.
 
 Wanhua Ou., **Zhiliang Lin**., Xianglin Su., & Guangchao Charles Feng.  (2018,Aug).  *Engagement in Cancer Screening: Theoretical Exploration Using A Meta-Analytical Structural Equation Modeling Approach*. Paper <u>accepted</u> by the Association For Education In Journalism & Mass Communication Annual Conference. Washington, DC, USA.
 
-**(paper in Chinese**) **Zhiliang Lin**. & Jiahong Wu. (2017, April). *The Marxism in Chinese Journalism and Communication Studies: A bibliometric overview*. Paper <u>presented</u> at Red Heritage: Marxism and Chinese Journalism and Communication Consortium, Chongqing, China.
+**(paper in Chinese**) **Zhiliang Lin**. & Jiahong Wu. (2017, April). *[The Marxism in Chinese Journalism and Communication Studies: A bibliometric overview](https://zhilianglin.com/files/paper in Chinese.pdf)*. Paper <u>presented</u> at Red Heritage: Marxism and Chinese Journalism and Communication Consortium, Chongqing, China.
 
-Xianglin Su., **Zhiliang Lin**., Yuting Zhang., & Guangchao Charles Feng. *Determinantsof technology acceptance: Two modeling-based meta-analytic reviews*. Paper <u>submitted</u> to 69th Annual ICA Conference, Washington, D.C.,USA.
+Xianglin Su., **Zhiliang Lin**., Yuting Zhang., & Guangchao Charles Feng. *[Determinantsof technology acceptance: Two modeling-based meta-analytic reviews](https://zhilianglin.com/files/paper3.pdf)*. Paper <u>submitted</u> to 69th Annual ICA Conference, Washington, D.C.,USA.
