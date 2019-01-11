@@ -41,9 +41,9 @@ interests = [
 
 # Biography
 
-Zhiliang Lin currently is a graduate student in Jinan Univeristy (Guangzhou), majoring in Communication. Before coming to Jinan University, he got a bachelor degree in Journalism from Southwestern University of Finance and Economics, where he also took some courses on Economics and Management.
+Zhiliang Lin currently is a graduate student in Jinan University (Guangzhou), majoring in Communication. Before coming to Jinan University, he got a bachelor degree in Journalism from Southwestern University of Finance and Economics, where he also took some courses in Economics and Management.
 
-Lin is interested in using quantitative methods to study human communication phenomena. To learn statistics and programming skills, he has took some  online and offline courses.
+Lin is interested in using quantitative methods to study human communication phenomena. To learn statistics and programming skills, he has taken some online and offline courses.
 
-Lin has grasped different academic tools to boost his research, such as SPSS, R, CiteSpace, Ucinet and etc. He also has the basic knowledge of Python programming and know a little about Linux, shell, html and JavaScript.
+Lin has grasped different academic tools to boost his research, such as SPSS, R, CiteSpace, Ucinet, etc. He also has the basic knowledge of Python programming and knows a little about Linux, shell, HTML, and JavaScript.
 
