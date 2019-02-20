@@ -42,4 +42,4 @@ Wanhua Ou., **Zhiliang Lin**., Xianglin Su., & Guangchao Charles Feng.  (2018,Au
 
 **(paper in Chinese**) **Zhiliang Lin**. & Jiahong Wu. (2017, April). *[The Marxism in Chinese Journalism and Communication Studies: A bibliometric overview](https://zhilianglin.com/files/paper in Chinese.pdf)*. Paper <u>presented</u> at Red Heritage: Marxism and Chinese Journalism and Communication Consortium, Chongqing, China.
 
-Xianglin Su., **Zhiliang Lin**., Yuting Zhang., & Guangchao Charles Feng. *[Determinantsof technology acceptance: Two modeling-based meta-analytic reviews](https://zhilianglin.com/files/paper3.pdf)*. Paper <u>submitted</u> to 69th Annual ICA Conference, Washington, D.C.,USA.
+Xianglin Su., **Zhiliang Lin**., Yuting Zhang., & Guangchao Charles Feng. *[Determinantsof technology acceptance: Two modeling-based meta-analytic reviews](https://zhilianglin.com/files/paper3.pdf)*. Paper <u>accepted</u> by 69th Annual ICA Conference, Washington, D.C.,USA.
