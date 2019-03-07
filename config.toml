@@ -241,7 +241,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fas"
-    link = "mailto:zllin0759@gmail.com"
+    link = "mailto:zhialiang-lin@outlook.com"
 
   [[params.social]]
     icon = "twitter"
