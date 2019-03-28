@@ -36,10 +36,14 @@ publication_type = "-1"
 exclude_selected = false
 +++
 
-**Zhiliang Lin**., Yuting Zhang, & Guangchao Charles Feng. (2018,May). *[The effects of socio-demographic factors on social media divide: A meta-analytical review](https://zhilianglin.com/files/paper1.pdf)*. Paper <u>presented</u> at the International Communication Association Annual Conference. Prague, Czech Republic.
+Guangchao Charles Feng., Yuting Zhang., & **Zhiliang Lin**. .*[A Meta-Analysis of the Effects of Sociodemographic Factors  on the Social Media Adoption](https://zhilianglin.com/files/FENG-2.ID10088.IJoC-Article.3-27-19.ap.pdf)*. Paper <u>provisional accepted</u> by *International Journal of Communication*
 
-Wanhua Ou., **Zhiliang Lin**., Xianglin Su., & Guangchao Charles Feng.  (2018,Aug).  *Engagement in Cancer Screening: Theoretical Exploration Using A Meta-Analytical Structural Equation Modeling Approach*. Paper <u>accepted</u> by the Association For Education In Journalism & Mass Communication Annual Conference. Washington, DC, USA.
+Xianglin Su., **Zhiliang Lin**., Yuting Zhang., & Guangchao Charles Feng. (2019, May) *[Determinantsof technology acceptance: Two modeling-based meta-analytic reviews](https://zhilianglin.com/files/paper3.pdf)*. Paper <u>accepted</u> by 69th Annual ICA Conference, Washington, D.C.,USA.
 
-**(paper in Chinese**) **Zhiliang Lin**. & Jiahong Wu. (2017, April). *[The Marxism in Chinese Journalism and Communication Studies: A bibliometric overview](https://zhilianglin.com/files/paper in Chinese.pdf)*. Paper <u>presented</u> at Red Heritage: Marxism and Chinese Journalism and Communication Consortium, Chongqing, China.
+**(paper in Chinese)** **Zhiliang Lin**. (2019, April). *[Your friends matter: Wechat use and school identity](https://zhilianglin.com/files/Your-friends-matter-Wechat-use-and-school-identity.pdf)*. Paper <u>accepted</u> by *New Media Research*
 
-Xianglin Su., **Zhiliang Lin**., Yuting Zhang., & Guangchao Charles Feng. *[Determinantsof technology acceptance: Two modeling-based meta-analytic reviews](https://zhilianglin.com/files/paper3.pdf)*. Paper <u>accepted</u> by 69th Annual ICA Conference, Washington, D.C.,USA.
+Wanhua Ou., **Zhiliang Lin**., Xianglin Su., & Guangchao Charles Feng.  (2018, Aug).  *Engagement in Cancer Screening: Theoretical Exploration Using A Meta-Analytical Structural Equation Modeling Approach*. Paper <u>accepted</u> by the Association For Education In Journalism & Mass Communication Annual Conference. Washington, DC, USA.
+
+**Zhiliang Lin**., Yuting Zhang., & Guangchao Charles Feng. (2018, May). *[The effects of socio-demographic factors on social media divide: A meta-analytical review](https://zhilianglin.com/files/paper1.pdf)*. Paper <u>presented</u> at the International Communication Association Annual Conference. Prague, Czech Republic.
+
+**(paper in Chinese**) **Zhiliang Lin**., & Jiahong Wu. (2017, April). *[The Marxism in Chinese Journalism and Communication Studies: A bibliometric overview](https://zhilianglin.com/files/paper in Chinese.pdf)*. Paper <u>presented</u> at Red Heritage: Marxism and Chinese Journalism and Communication Consortium, Chongqing, China.
