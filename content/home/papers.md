@@ -36,7 +36,7 @@ publication_type = "-1"
 exclude_selected = false
 +++
 
-Guangchao Charles Feng., Yuting Zhang., & **Zhiliang Lin**. .*[A Meta-Analysis of the Effects of Sociodemographic Factors  on the Social Media Adoption](https://zhilianglin.com/files/FENG-2.ID10088.IJoC-Article.3-27-19.ap.pdf)*. Paper <u>provisional accepted</u> by *International Journal of Communication*
+(Coming soon) Guangchao Charles Feng., Yuting Zhang., & **Zhiliang Lin**. .*[A Meta-Analysis of the Effects of Sociodemographic Factors  on the Social Media Adoption](https://zhilianglin.com/files/FENG-2.ID10088.IJoC-Article.3-27-19.ap.pdf)*. Paper <u>provisional accepted</u> by *International Journal of Communication*
 
 Xianglin Su., **Zhiliang Lin**., Yuting Zhang., & Guangchao Charles Feng. (2019, May) *[Determinantsof technology acceptance: Two modeling-based meta-analytic reviews](https://zhilianglin.com/files/paper3.pdf)*. Paper <u>accepted</u> by 69th Annual ICA Conference, Washington, D.C.,USA.
 
