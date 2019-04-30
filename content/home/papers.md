@@ -36,12 +36,12 @@ publication_type = "-1"
 exclude_selected = false
 +++
 
-Guangchao Charles Feng., Yuting Zhang., & **Zhiliang Lin** (2019). *[A Meta-Analysis of the Effects of Sociodemographic Factors  on the Social Media Adoption](https://zhilianglin.com/files/A Meta-Analysis of the Effects of Sociodemographic Factors on Social Media Adoption.pdf)*. *International Journal of Communication*, 13, 1996–2025. 
+Guangchao Charles Feng., Yuting Zhang., & **Zhiliang Lin** (2019). *[A Meta-Analysis of the Effects of Sociodemographic Factors  on the Social Media Adoption](https://zhilianglin.com/files/A Meta-Analysis of the Effects of Sociodemographic Factors on Social Media Adoption.pdf)*. *International Journal of Communication*, *13*, 1996–2025. 
 
 Xianglin Su., **Zhiliang Lin**., Yuting Zhang., & Guangchao Charles Feng. (2019, May) *[Determinantsof technology acceptance: Two modeling-based meta-analytic reviews](https://zhilianglin.com/files/paper3.pdf)*. Paper <u>accepted</u> by 69th Annual ICA Conference, Washington, D.C.,USA.
 
 **(paper in Chinese)** **Zhiliang Lin.** (2019). [*Your friends matter: Wechat use and school
-identity*](https://zhilianglin.com/files/Your-friends-matter-Wechat-use-and-school-identity.pdf). *New Media Research*, 06, 17-22
+identity*](https://zhilianglin.com/files/Your-friends-matter-Wechat-use-and-school-identity.pdf). *New Media Research*, *06*, 17-22
 
 Wanhua Ou., **Zhiliang Lin**., Xianglin Su., & Guangchao Charles Feng.  (2018, Aug).  *Engagement in Cancer Screening: Theoretical Exploration Using A Meta-Analytical Structural Equation Modeling Approach*. Paper <u>accepted</u> by the Association For Education In Journalism & Mass Communication Annual Conference. Washington, DC, USA.
 
