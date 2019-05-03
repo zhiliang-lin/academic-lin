@@ -10,10 +10,10 @@ weight = 5
 # List your academic interests.
 [interests]
 interests = [
+"Political Communication",
 "Digital Divide",
 "Information Diffusion",
-"Quantitative Methods",
-"Computational Communication Science"
+"Quantitative Methods"
   ]
 
 
