@@ -310,10 +310,10 @@ enableGitInfo = false
     url = "files/Zhiliang Lin - CV.pdf"
     weight = 7
 # I am creating a menu for research proposal
-  [[menu.main]]
-    name = "Research Proposal"
-    url = "files/Zhiliang Lin - Research Proposal.pdf"
-    weight = 8
+#  [[menu.main]]
+#    name = "Research Proposal"
+#    url = "files/Zhiliang Lin - Research Proposal.pdf"
+#    weight = 8
 	
 # Search.
 [params.search]
