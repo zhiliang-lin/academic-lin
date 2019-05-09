@@ -40,8 +40,7 @@ Guangchao Charles Feng., Yuting Zhang., & **Zhiliang Lin**. (2019). *[A Meta-Ana
 
 Xianglin Su., **Zhiliang Lin**., Yuting Zhang., & Guangchao Charles Feng. (2019, May). *[Determinants of technology acceptance: Two modeling-based meta-analytic reviews](https://zhilianglin.com/files/paper3.pdf)*. Paper <u>accepted</u> by 69th Annual ICA Conference, Washington, D.C.,USA.
 
-**(paper in Chinese)** **Zhiliang Lin.** (2019). [*Your friends matter: Wechat use and school
-identity*](https://zhilianglin.com/files/Your-friends-matter-Wechat-use-and-school-identity.pdf). *New Media Research*, *06*, 17-22
+**(paper in Chinese)** **Zhiliang Lin.** (2019). [*Your friends matter: A mediation model of Wechat use and school identity*](https://zhilianglin.com/files/Your-friends-matter-Wechat-use-and-school-identity.pdf). *New Media Research*, *06*, 17-22
 
 Wanhua Ou., **Zhiliang Lin**., Xianglin Su., & Guangchao Charles Feng. (2018, Aug).  *Engagement in Cancer Screening: Theoretical Exploration Using A Meta-Analytical Structural Equation Modeling Approach*. Paper <u>accepted</u> by the Association For Education In Journalism & Mass Communication Annual Conference. Washington, DC, USA.
 
