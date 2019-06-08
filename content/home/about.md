@@ -28,11 +28,11 @@ interests = [
 [[education.courses]]
   course = "M.A. in Communication"
   institution = "Jinan University"
-  year = "2019(Expected)"
+  year = "2019"
 
 [[education.courses]]
   course = "B.A. in Journalism"
-  institution = "Southwestern University of Finance and Econometrics"
+  institution = "Southwestern University of Finance and Economics"
   year = 2015
 
 +++
