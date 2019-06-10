@@ -42,7 +42,8 @@ Xianglin Su., **Zhiliang Lin**., Yuting Zhang., & Guangchao Charles Feng. (2019,
 
 **(paper in Chinese)** **Zhiliang Lin.** (2019). [*Your friends matter: A mediation model of Wechat use and school identity*](https://zhilianglin.com/files/Your friends matter.pdf). *New Media Research*, *06*, 17-22
 
-Wanhua Ou., **Zhiliang Lin**., Xianglin Su., & Guangchao Charles Feng. (2018, Aug).  *Engagement in Cancer Screening: Theoretical Exploration Using A Meta-Analytical Structural Equation Modeling Approach*. Paper <u>accepted</u> by the Association For Education In Journalism & Mass Communication Annual Conference. Washington, DC, USA.
+Guangchao Charles Feng., **Zhiliang Lin**., Wanhua Ou., &.Xianglin Su (2018, Aug)*.  [Engagement
+in Cancer Screening: Theoretical Exploration Using A Meta-Analytical Structural Equation Modeling Approach](https://zhilianglin.com/files/paper2.pdf).* Paper accepted by the Association For Education In Journalism & Mass Communication Annual Conference. Washington, D.C., USA.
 
 **Zhiliang Lin**., Yuting Zhang., & Guangchao Charles Feng. (2018, May). *[The effects of socio-demographic factors on social media divide: A meta-analytical review](https://zhilianglin.com/files/paper1.pdf)*. Paper <u>presented</u> at the International Communication Association Annual Conference. Prague, Czech Republic.
 
