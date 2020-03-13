@@ -19,6 +19,21 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Full-time Research Assistant"
+  company = "Shenzhen University"
+  company_url = ""
+  location = ""
+  date_start = "2019-07-01"
+  date_end = "-"
+  description = """
+  Responsibilities include:
+
+  * Help preparing 
+  * Teach SPSS and R  for fresh graduate students
+  * Help write articles on the subject of public opinion for Shenzhen Council Government
+    """
+
+[[experience]]
   title = "Research Assistant"
   company = "Shenzhen University"
   company_url = ""
