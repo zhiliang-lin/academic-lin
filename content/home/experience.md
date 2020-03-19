@@ -24,7 +24,7 @@ date_format = "January 2006"
   company_url = ""
   location = ""
   date_start = "2019-07-01"
-  date_end = "-"
+  date_end = "2020-04-01"
   description = """
   Responsibilities include:
 
