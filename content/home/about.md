@@ -42,4 +42,4 @@ interests = [
 
 Zhiliang Lin (林志良 :sound: ​[listen](http://www.zhilianglin.com/files/zhiliang-lin.ogg)), currently is a full-time research assistant at Shenzhen University. Lin got his master degree and bachelor degree from Jinan University(Guangzhou) and Southwestern University of Finance and Economics respectively.
 
-Lin is interested in using quantitative methods to study human communication phenomena. He has experience in several academic projects and has (co)author several English and Chinese papers. Lin has grasped different academic tools to boost his research, such as SPSS, R, CiteSpace, Ucinet, and etc. 
+Lin is interested in using quantitative methods to study human communication phenomena. He has experience in several academic projects and has (co)authored several English and Chinese papers. Lin has grasped different academic tools to boost his research, such as SPSS, R, CiteSpace, Ucinet, and etc. 
