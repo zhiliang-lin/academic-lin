@@ -27,14 +27,14 @@ date_format = "January 2006"
   company_url = ""
   location = ""
   date_start = "2019-07-01"
-  date_end = "2020-04-01"
+  date_end = ""
   description = """
   Responsibilities include:
 
   * Do data wrangling and data analysis on massive data and finished two report articles
   * Buid the website of the lab and maintain the daily operation of the website
   * Help finish the revision of two manusripts for international journals
-  
+
 [[experience]]
   title = "Research Assistant"
   company = "Shenzhen University"
