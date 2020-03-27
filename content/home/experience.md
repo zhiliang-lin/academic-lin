@@ -18,6 +18,9 @@ date_format = "January 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+    
+    """
 [[experience]]
   title = "Full-time Research Assistant"
   company = "Shenzhen University"
@@ -28,11 +31,10 @@ date_format = "January 2006"
   description = """
   Responsibilities include:
 
-  * Help preparing 
-  * Teach SPSS and R  for fresh graduate students
-  * Help write articles on the subject of public opinion for Shenzhen Council Government
-    """
-
+  * Do data wrangling and data analysis on massive data and finished two report articles
+  * Buid the website of the lab and maintain the daily operation of the website
+  * Help finish the revision of two manusripts for international journals
+  
 [[experience]]
   title = "Research Assistant"
   company = "Shenzhen University"
@@ -44,7 +46,7 @@ date_format = "January 2006"
   Responsibilities include:
 
   * Prepare data and SparklyR code for the testing of Hadoop platform of Big Data Lab
-  * Teach SPSS and R  for fresh graduate students
+  * Teach SPSS and R for fresh graduate students
   * Help write articles on the subject of public opinion for Shenzhen Council Government
     """
 
@@ -58,10 +60,8 @@ date_format = "January 2006"
   description = """
   Responsibilities include:
 
-  * Help  with recordkeeping, such as tracking attendance and calculating grades
-
+  * Help with recordkeeping, such as tracking attendance and calculating grades
   * Help prepare for lessons by getting materials ready or setting up equipment
-
   * Learn about problems students are having with the course material
 
     """
