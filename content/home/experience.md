@@ -28,7 +28,7 @@ date_format = "January 2006"
   location = ""
   date_start = "2019-07-01"
   date_end = ""
-  description = """
+  description = ""
   Responsibilities include:
 
   * Do data wrangling and data analysis on massive data and finished two report articles
@@ -42,7 +42,7 @@ date_format = "January 2006"
   location = ""
   date_start = "2018-03-01"
   date_end = "2018-07-01"
-  description = """
+  description = ""
   Responsibilities include:
 
   * Prepare data and SparklyR code for the testing of Hadoop platform of Big Data Lab
@@ -57,7 +57,7 @@ date_format = "January 2006"
   location = ""
   date_start = "2016-09-01"
   date_end = "2016-12-01"
-  description = """
+  description = ""
   Responsibilities include:
 
   * Help with recordkeeping, such as tracking attendance and calculating grades
