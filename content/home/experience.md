@@ -48,7 +48,6 @@ date_format = "January 2006"
   * Prepare data and SparklyR code for the testing of Hadoop platform of Big Data Lab
   * Teach SPSS and R for fresh graduate students
   * Help write articles on the subject of public opinion for Shenzhen Council Government
-    """
 
  [[experience]]
   title = "Teaching Assistant"
