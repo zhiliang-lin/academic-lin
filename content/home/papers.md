@@ -36,15 +36,10 @@ publication_type = "-1"
 exclude_selected = false
 +++
 
+Guangchao Charles Feng., Xianglin Su., **Zhiliang Lin**., Yiru He., Nan Luo., & Yuting Zhang. (forthcoming). Determinants of technology acceptance: Two modeling-based meta-analytic reviews. *Journalism & Mass Communication Quarterly*.
+
+Guangchao Charles Feng., **Zhiliang Lin**., Xianglin Su., & Wanhua Ou. (forthcoming). A Model-based Meta-analysis of Willingness to Participate in Cancer Screening. *Sage Open*.
+
 Guangchao Charles Feng., Yuting Zhang., & **Zhiliang Lin**. (2019). *[A Meta-Analysis of the Effects of Sociodemographic Factors  on the Social Media Adoption](https://zhilianglin.com/files/A Meta-Analysis of the Effects of Sociodemographic Factors on Social Media Adoption.pdf)*. *International Journal of Communication*, *13*, 1996–2025. 
 
-Xianglin Su., **Zhiliang Lin**., Yuting Zhang., & Guangchao Charles Feng. (2019, May). *[Determinants of technology acceptance: Two modeling-based meta-analytic reviews](https://zhilianglin.com/files/paper3.pdf)*. Paper <u>accepted</u> by 69th Annual ICA Conference, Washington, D.C.,USA.
-
 **(paper in Chinese)** **Zhiliang Lin.** (2019). [*Your friends matter: A mediation model of Wechat use and school identity*](https://zhilianglin.com/files/Your friends matter.pdf). *New Media Research*, *06*, 17-22
-
-Guangchao Charles Feng., **Zhiliang Lin**., Wanhua Ou., &.Xianglin Su (2018, Aug)*.  [Engagement
-in Cancer Screening: Theoretical Exploration Using A Meta-Analytical Structural Equation Modeling Approach](https://zhilianglin.com/files/paper2.pdf).* Paper accepted by the Association For Education In Journalism & Mass Communication Annual Conference. Washington, D.C., USA.
-
-**Zhiliang Lin**., Yuting Zhang., & Guangchao Charles Feng. (2018, May). *[The effects of socio-demographic factors on social media divide: A meta-analytical review](https://zhilianglin.com/files/paper1.pdf)*. Paper <u>presented</u> at the International Communication Association Annual Conference. Prague, Czech Republic.
-
-**(paper in Chinese**) **Zhiliang Lin**., & Jiahong Wu. (2017, April). *[The Marxism in Chinese Journalism and Communication Studies: A bibliometric overview](https://zhilianglin.com/files/paper in Chinese.pdf)*. Paper <u>presented</u> at Red Heritage: Marxism and Chinese Journalism and Communication Consortium, Chongqing, China.
