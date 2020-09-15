@@ -52,18 +52,18 @@ enableGitInfo = false
 
   # Your details.
   name = "Zhiliang Lin"
-  role = "Research Assistant"
+  role = "Teaching Assistant"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Shenzhen University", url = "" } ]
+  organizations = [ { name = "Nanfang College of Sun Yat-sen University", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
   email = "zhiliang-lin@outlook.com"
-  address = "3688 Nanhai Ave, Nanshan Qu, Shenzhen, China"
+  address = "882 Wenquan Ave, Conghua District, Guangzhou, Guangdong Province, China"
   # office_hours = "Monday 10:00 to 13:00 or email for appointment"
   # phone = "888 888 88 88"
   skype = "live:zhiliang-lin"
@@ -256,7 +256,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "github"
     icon_pack = "fab"
-    link = "//github.com/leo1900227"
+    link = "//github.com/zhiliang-lin"
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -293,10 +293,10 @@ enableGitInfo = false
   url = "#papers"
   weight = 4
 
-#[[menu.main]]
-#  name = "Teaching"
-#  url = "#teaching"
-#  weight = 5
+[[menu.main]]
+  name = "Teaching"
+  url = "#teaching"
+  weight = 5
 
 [[menu.main]]
   name = "Contact"
