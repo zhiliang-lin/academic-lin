@@ -26,7 +26,7 @@ date_format = "January 2006"
   company_url = ""
   location = ""
   date_start = "2019-07-01"
-  date_end = ""
+  date_end = "2020-06-01"
   description = """
   Responsibilities include:
 
@@ -36,7 +36,7 @@ date_format = "January 2006"
 """
 
 [[experience]]
-  title = "Research Assistant"
+  title = "Part-time Research Assistant"
   company = "Shenzhen University"
   company_url = ""
   location = ""
@@ -51,7 +51,7 @@ date_format = "January 2006"
 """
 
  [[experience]]
-  title = "Teaching Assistant"
+  title = "Part-time Teaching Assistant"
   company = "Jinan University"
   company_url = ""
   location = ""
