@@ -35,34 +35,6 @@ date_format = "January 2006"
   * Help finish the revision of two manusripts for international journals
 """
 
-[[experience]]
-  title = "Part-time Research Assistant"
-  company = "Shenzhen University"
-  company_url = ""
-  location = ""
-  date_start = "2018-03-01"
-  date_end = "2018-07-01"
-  description = """
-  Responsibilities include:
 
-  * Prepare data and SparklyR code for the testing of Hadoop platform of Big Data Lab
-  * Teach SPSS and R for fresh graduate students
-  * Help write articles on the subject of public opinion for Shenzhen Council Government
-"""
-
- [[experience]]
-  title = "Part-time Teaching Assistant"
-  company = "Jinan University"
-  company_url = ""
-  location = ""
-  date_start = "2016-09-01"
-  date_end = "2016-12-01"
-  description = """
-  Responsibilities include:
-
-  * Help with recordkeeping, such as tracking attendance and calculating grades
-  * Help prepare for lessons by getting materials ready or setting up equipment
-  * Learn about problems students are having with the course material
-"""
 
 +++
