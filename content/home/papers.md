@@ -36,7 +36,7 @@ publication_type = "-1"
 exclude_selected = false
 +++
 
-Guangchao Charles Feng., Xianglin Su., **Zhiliang Lin**., Yiru He., Nan Luo., & Yuting Zhang. (forthcoming). Determinants of technology acceptance: Two modeling-based meta-analytic reviews. *Journalism & Mass Communication Quarterly*.
+Guangchao Charles Feng., Xianglin Su., **Zhiliang Lin**., Yiru He., Nan Luo., & Yuting Zhang. (2020). Determinants of technology acceptance: Two modeling-based meta-analytic reviews. *Journalism & Mass Communication Quarterly*.
 
 Guangchao Charles Feng., **Zhiliang Lin**., Xianglin Su., & Wanhua Ou. (forthcoming). A Model-based Meta-analysis of Willingness to Participate in Cancer Screening. *Sage Open*.
 
