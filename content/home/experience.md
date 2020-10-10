@@ -27,10 +27,7 @@ date_format = "January 2006"
   date_start = "2020-07-01"
   date_end = ""
   description = """
-  Courses:
-  * New Media Analysis and User Experience
-  * New Media Technologies and Collaboration 
-  
+
 """
 
 
@@ -42,11 +39,6 @@ date_format = "January 2006"
   date_start = "2019-07-01"
   date_end = "2020-06-01"
   description = """
-  Responsibilities include:
-
-  * Do data wrangling and data analysis on massive data and finished two report articles
-  * Buid the website of the lab and maintain the daily operation of the website
-  * Help finish the revision of two manusripts for international journals
 """
 
 
