@@ -27,8 +27,9 @@ date_format = "January 2006"
   date_start = "2020-07-01"
   date_end = ""
   description = """
-  Responsibilities include:
-
+  Courses:
+  * New Media Analysis and User Experience
+  * New Media Technologies and Collaboration 
   
 """
 
