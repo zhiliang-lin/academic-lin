@@ -40,8 +40,8 @@ interests = [
 
 # Biography
 
-I am Zhiliang Lin (林志良 :sound: ​[listen](http://www.zhilianglin.com/files/zhiliang-lin.ogg)), currently work as Teaching Assistant at Nanfang College of Sun Yat-sen University. Before that, I worked as Research Assistant with [Guangchao Charles Feng](https://scholar.google.com/citations?user=zoqsgEsAAAAJ&hl) at Shenzhen University where I practiced my data analysis skills a lot. I got my master degree and bachelor degree from Jinan University (Guangzhou) and Southwestern University of Finance and Economics respectively.
+My name is Zhiliang Lin (林志良 :sound: ​[listen](http://www.zhilianglin.com/files/zhiliang-lin.ogg)). I am a Teaching Assistant at Nanfang College of Sun Yat-sen University. Before that, I worked as Research Assistant with [Guangchao Charles Feng](https://scholar.google.com/citations?user=zoqsgEsAAAAJ&hl) at Shenzhen University where I practiced my data analysis skills a lot. I got my master degree and bachelor degree from Jinan University (Guangzhou) and Southwestern University of Finance and Economics respectively.
 
 I am interested in using quantitative methods to study human communication phenomena. I have experience in several academic projects and have (co)authored several English and Chinese papers. I have a passion for utilizing various tools to boost my research, such as Shell, R, Python, Ucinet, CiteSpace and etc. 
 
-Besides, I am an enthusiast for football and [The Story of the Stone](https://www.goodreads.com/series/175344) (If you find it hard to pronounce my name, feel free to call me *Stoner*).
+Besides, I am an enthusiast for football and [The Story of the Stone](https://www.goodreads.com/series/175344) (If you find it hard to pronounce my name, please feel free to call me *Stoner*).
