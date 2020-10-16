@@ -44,4 +44,4 @@ I am Zhiliang Lin (林志良 :sound: ​[listen](http://www.zhilianglin.com/file
 
 I am interested in using quantitative methods to study human communication phenomena. I have experience in several academic projects and have (co)authored several English and Chinese papers. I have a passion for utilizing various tools to boost my research, such as Shell, R, Python, Ucinet, CiteSpace and etc. 
 
-Besides, I am an enthusiast for football and [The Story of the Stone](https://www.goodreads.com/series/175344) (If you find it hard to pronounce my name, feel free to call me *Stoner* ).
+Besides, I am an enthusiast for football and [The Story of the Stone](https://www.goodreads.com/series/175344) (If you find it hard to pronounce my name, feel free to call me *Stoner*).
