@@ -36,9 +36,9 @@ publication_type = "-1"
 exclude_selected = false
 +++
 
-Guangchao Charles Feng., Xianglin Su., **Zhiliang Lin**., Yiru He., Nan Luo., & Yuting Zhang. (2020). Determinants of technology acceptance: Two modeling-based meta-analytic reviews. *Journalism & Mass Communication Quarterly*.
+Guangchao Charles Feng., **Zhiliang Lin**., Xianglin Su., & Wanhua Ou. (2021). A Model-based Meta-analysis of Willingness to Participate in Cancer Screening. *International Journal of Environmental Research and Public Health*, 18(5), 2580.
 
-Guangchao Charles Feng., **Zhiliang Lin**., Xianglin Su., & Wanhua Ou. (forthcoming). A Model-based Meta-analysis of Willingness to Participate in Cancer Screening. *Sage Open*.
+Guangchao Charles Feng., Xianglin Su., **Zhiliang Lin**., Yiru He., Nan Luo., & Yuting Zhang. (2020). Determinants of technology acceptance: Two modeling-based meta-analytic reviews. *Journalism & Mass Communication Quarterly*.
 
 Guangchao Charles Feng., Yuting Zhang., & **Zhiliang Lin**. (2019). *[A Meta-Analysis of the Effects of Sociodemographic Factors  on the Social Media Adoption](https://zhilianglin.com/files/A Meta-Analysis of the Effects of Sociodemographic Factors on Social Media Adoption.pdf)*. *International Journal of Communication*, *13*, 1996–2025. 
 
