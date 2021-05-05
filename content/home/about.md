@@ -10,9 +10,14 @@ weight = 5
 # List your academic interests.
 [interests]
 interests = [
-"Political Communication",
 "Digital Divide",
+
+"Digital Humanity",
+
+"Computational Communication Science",
+
 "Information Diffusion",
+
 "Quantitative Methods"
   ]
 
@@ -28,7 +33,7 @@ interests = [
 
 [[education.courses]]
   course = "M.A. in Communication"
-  institution = "Jinan University"
+  institution = "Jinan University (Guangzhou)"
   year = "2019"
 
 [[education.courses]]
