@@ -10,13 +10,10 @@ weight = 5
 # List your academic interests.
 [interests]
 interests = [
-"Digital Divide",
 
 "Digital Humanity",
 
 "Computational Communication Science",
-
-"Information Diffusion",
 
 "Quantitative Methods"
   ]
@@ -45,8 +42,8 @@ interests = [
 
 # Biography
 
-My name is Zhiliang Lin (林志良 :sound: ​[listen](http://www.zhilianglin.com/files/zhiliang-lin.ogg)). I am a Teaching Assistant at Guangzhou Nanfang College. Before that, I worked as Research Assistant with [Guangchao Charles Feng](https://scholar.google.com/citations?user=zoqsgEsAAAAJ&hl) at Shenzhen University. I got my master degree and bachelor degree from Jinan University (Guangzhou) and Southwestern University of Finance and Economics respectively.
+My name is Zhiliang Lin (林志良 :sound: [listen](http://www.zhilianglin.com/files/zhiliang-lin.ogg)). Currently, I serve as a Teaching Assistant at Guangzhou Nanfang College. Prior to this role, I worked as a Research Assistant under [Guangchao Charles Feng](https://scholar.google.com/citations?user=zoqsgEsAAAAJ&hl) at Shenzhen University. I earned my master's degree from Jinan University (Guangzhou) and my bachelor's degree from Southwestern University of Finance and Economics.at Shenzhen University. 
 
-I am interested in using quantitative methods to study human communication phenomena. I have experience in several academic projects and have (co)authored several English and Chinese papers. I have a passion for utilizing various tools to boost my research, such as R, Python, Ucinet, CiteSpace and etc. 
+I am deeply interested in utilizing quantitative methods to investigate human communication phenomena. With hands-on experience in numerous academic projects, I have (co)authored several papers in both English and Chinese. I am fervent about leveraging various tools to enhance my research, including R, Python, Ucinet, and CiteSpace.
 
-Besides, I am an enthusiast for football and [The Story of the Stone](https://www.goodreads.com/series/175344) (If you find it hard to pronounce my name, please feel free to call me *Stoner*).
+Outside of academia, I am an avid football enthusiast and a fan of [*The Story of the Stone*](https://www.goodreads.com/series/175344). If my name is difficult to pronounce, feel free to call me *Stoner*.
