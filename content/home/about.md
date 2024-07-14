@@ -42,7 +42,7 @@ interests = [
 
 # Biography
 
-My name is Zhiliang Lin (林志良 :sound: [listen](http://www.zhilianglin.com/files/zhiliang-lin.ogg)). Currently, I serve as a Teaching Assistant at Guangzhou Nanfang College. Prior to this role, I worked as a Research Assistant under [Guangchao Charles Feng](https://scholar.google.com/citations?user=zoqsgEsAAAAJ&hl) at Shenzhen University. I earned my master's degree from Jinan University (Guangzhou) and my bachelor's degree from Southwestern University of Finance and Economics.at Shenzhen University. 
+My name is Zhiliang Lin (林志良 :sound: [listen](http://www.zhilianglin.com/files/zhiliang-lin.ogg)). Currently, I serve as a Teaching Assistant at Guangzhou Nanfang College. Prior to this role, I worked as a Research Assistant under [Guangchao Charles Feng](https://scholar.google.com/citations?user=zoqsgEsAAAAJ&hl) at Shenzhen University. I earned my master's degree from Jinan University (Guangzhou) and my bachelor's degree from Southwestern University of Finance and Economics. 
 
 I am deeply interested in utilizing quantitative methods to investigate human communication phenomena. With hands-on experience in numerous academic projects, I have (co)authored several papers in both English and Chinese. I am fervent about leveraging various tools to enhance my research, including R, Python, Ucinet, and CiteSpace.
 
