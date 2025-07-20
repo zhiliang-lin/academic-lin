@@ -20,7 +20,7 @@ date_format = "January 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Teaching Assistant"
+  title = "Teaching Associate"
   company = "Guangzhou Nanfang College"
   company_url = "http://en.nfu.edu.cn/"
   location = ""
@@ -32,7 +32,7 @@ date_format = "January 2006"
 
 
 [[experience]]
-  title = "Full-time Research Assistant"
+  title = "Research Associate"
   company = "Shenzhen University"
   company_url = "https://en.szu.edu.cn/"
   location = ""
