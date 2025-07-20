@@ -29,6 +29,11 @@ interests = [
 #year = 2012
 
 [[education.courses]]
+  course = "M.S. in Statistical Data Analysis  "
+  institution = "Ghent University"
+  year = "2026"
+
+[[education.courses]]
   course = "M.A. in Communication"
   institution = "Jinan University (Guangzhou)"
   year = "2019"
