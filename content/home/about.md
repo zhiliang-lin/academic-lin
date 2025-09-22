@@ -11,11 +11,14 @@ weight = 5
 [interests]
 interests = [
 
-"Digital Humanity",
-
 "Computational Communication Science",
 
+"Media Psychology",
+
+"Health Communication",
+
 "Quantitative Methods"
+
   ]
 
 
