@@ -9,11 +9,13 @@ weight = 5
 
 # List your academic interests.
 # List your academic interests.
-interests = [
-"Computational Communication Science",
-"Media Psychology",
-"Health Communication"
-]
+[[interests.group]]
+  name = "Research Interests"
+  items = [
+    "Computational Communication Science",
+    "Media Psychology",
+    "Health Communication"
+  ]
 
 
 
