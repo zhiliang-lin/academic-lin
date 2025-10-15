@@ -26,13 +26,19 @@ weight = 50
   icon_pack = "fab"
   name = "R"
   description = ""
-  
+
+[[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+  description = ""
+
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
   description = ""  
-  
+
 [[feature]]
   icon = "chart-area"
   icon_pack = "fas"
