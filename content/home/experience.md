@@ -25,7 +25,7 @@ date_format = "January 2006"
   company_url = "http://en.nfu.edu.cn/"
   location = ""
   date_start = "2020-07-01"
-  date_end = ""
+  date_end = "2025-09-01"
   description = """
 
 """
