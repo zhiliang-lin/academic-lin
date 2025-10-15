@@ -15,10 +15,7 @@ interests = [
 
 "Media Psychology",
 
-"Health Communication",
-
-"Quantitative Methods"
-
+"Health Communication"
   ]
 
 
@@ -55,3 +52,4 @@ Hello, my name is Zhiliang Lin (林志良 :sound: [listen](http://www.zhiliangli
 I am deeply interested in utilizing quantitative methods to investigate human communication phenomena. My hands-on experience with several academic projects has led to (co)authoring several papers in both English and Chinese. 
 
 Outside academia, I enjoy a variety of pursuits including reading, running, gardening, and playing football.
+
