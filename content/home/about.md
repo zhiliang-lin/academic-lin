@@ -25,14 +25,14 @@ weight = 5
 #year = 2012
 
 [[education.courses]]
-  course = "M.S. in Statistical Data Analysis  "
+  course = "M.Sc. in Statistical Data Analysis  "
   institution = "Ghent University"
-  year = "2026"
+  year = Expected 2026
 
 [[education.courses]]
   course = "M.A. in Communication"
-  institution = "Jinan University (Guangzhou)"
-  year = "2019"
+  institution = "Jinan University"
+  year = 2019 
 
 [[education.courses]]
   course = "B.A. in Journalism (Financial Journalism)"
