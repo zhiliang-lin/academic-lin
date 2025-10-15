@@ -27,7 +27,7 @@ weight = 5
 [[education.courses]]
   course = "M.Sc. in Statistical Data Analysis  "
   institution = "Ghent University"
-  year = Expected 2026
+  year = 2026
 
 [[education.courses]]
   course = "M.A. in Communication"
