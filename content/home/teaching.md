@@ -8,7 +8,7 @@ date = 2020-09-10T00:00:00
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a '#'.
 title = "Teaching"
-subtitle = "Courses I have taught as a lecturer"
+subtitle = "Courses I have taught as an instructor"
 
 # Order that this section will appear in.
 weight = 60
