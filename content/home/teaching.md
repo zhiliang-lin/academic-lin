@@ -17,10 +17,10 @@ weight = 40
 When serving as an instructor at Guangzhou Nanfang College, I have designed and taught the following courses:
 
 * ### Statistics for Communication Studies
-    This course is designed to build a solid foundation in quantitative research methods for students in communication and the social sciences. Blending theory with hands-on application, the curriculum systematically covers core concepts from descriptive statistics to regression analysis. Students learn to process, analyze, and interpret data using modern statistical software like SPSS and Python, culminating in an independent empirical data analysis report.
+    A foundational course in quantitative research for communication and social science students. The curriculum covers core concepts from descriptive statistics to regression analysis, with a hands-on focus on using SPSS and Python to prepare students for independent data analysis.
 
 * ### New Media Data Analysis
-    This course provides students with a practical, tool-oriented introduction to the entire data science workflow, with a focus on new media data. The curriculum covers the essential stages of data analysis: importing and cleaning data, modeling and analysis, visualization, and communication of results. Students gain hands-on proficiency in advanced Excel (with Power Query and Power Pivot).
+    A practical introduction to the full data science workflow. This tool-oriented course uses advanced Excel, including Power Query and Power Pivot, to teach students how to import, clean, model, and visualize new media data.
 
 * ### Web Data Scraping
-    This course is a hands-on guide to web data collection for research. Students learn to extract data from any web source, starting with simple tools for static pages and progressing to advanced techniques for dynamic sites using Python libraries like pyquery and Selenium.
+    A hands-on course on web data collection for research. Students progress from simple tools to advanced Python techniques, learning to extract data from both static pages and complex, dynamic sites using libraries like `pyquery` and `Selenium`.
