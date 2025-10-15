@@ -6,24 +6,21 @@ widget = "custom"
 active = true
 date = 2020-09-10T00:00:00
 
-# Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Statistics for Communication Studies"
-subtitle = ""
-
-
-
-title = "Web Data Scraping"
-subtitle = ""
-
-
-
-
+# Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a '#'.
+title = "Teaching"
+subtitle = "Courses I have taught as a lecturer"
 
 # Order that this section will appear in.
 weight = 60
-
 +++
 
-This is an example of using the *custom* widget to create your own homepage section.
+As a lecturer at Guangzhou Nanfang College, I have designed and taught the following courses:
 
-To remove this section, either delete `content/home/teaching.md` or edit the frontmatter of the file to deactivate the widget by setting `active = true`.
+* ### Statistics for Communication Studies
+    This course introduces fundamental statistical concepts and their application in communication research, covering descriptive statistics, probability, inference, regression, and ANOVA using Excel, SPSS and Python.
+
+* ### New Media Data Analysis
+    This course focuses on analyzing data from digital platforms. Students learn to handle APIs, process textual data, and apply analytical techniques like sentiment analysis and topic modeling to understand online communication.
+
+* ### Web Data Scraping
+    A practical, hands-on course where students learn to collect data from the web using Python libraries such as BeautifulSoup and Scrapy, while also covering the ethical considerations of data collection.
