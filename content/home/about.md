@@ -8,14 +8,12 @@ date = 2016-04-20T00:00:00
 weight = 5
 
 # List your academic interests.
-[interests]
-  [[interests.group]]
-    name = "Research Interests"
-    items = [
-      "Computational Communication Science",
-      "Media Psychology",
-      "Health Communication"
-    ]
+# List your academic interests.
+interests = [
+"Computational Communication Science",
+"Media Psychology",
+"Health Communication"
+]
 
 
 
@@ -46,9 +44,9 @@ weight = 5
 
 # Biography
 
-Hello, my name is Zhiliang Lin (林志良 :sound: [listen](http://www.zhilianglin.com/files/zhiliang-lin.ogg)). I am currently a Teaching Associate at Guangzhou Nanfang College. Before this position, I was a Research Associate under the guidance of [Guangchao Charles Feng](https://scholar.google.com/citations?user=zoqsgEsAAAAJ&hl) at Shenzhen University. I hold a master's degree from Jinan University (Guangzhou) and a bachelor's degree from the Southwestern University of Finance and Economics.
+Hello, my name is Zhiliang Lin (林志良 :sound: [listen](http://www.zhilianglin.com/files/zhiliang-lin.ogg)). I am a quantitative researcher passionate about applying computational methods to understand human communication. 
 
-I am deeply interested in utilizing quantitative methods to investigate human communication phenomena. My hands-on experience with several academic projects has led to (co)authoring several papers in both English and Chinese. 
+Currently, I am completing a Master of Science in Statistical Data Analysis at Ghent University to deepen my expertise in advanced quantitative methodologies. Prior to my studies in Belgium, I was a university lecturer at Guangzhou Nanfang College, where I designed and taught courses in statistics for communication, new media data analysis, and web scraping. I also served as a Research Associate at Shenzhen University, contributing to several data-intensive projects and co-authoring publications in SSCI-indexed journals.
 
 Outside academia, I enjoy a variety of pursuits including reading, running, gardening, and playing football.
 
