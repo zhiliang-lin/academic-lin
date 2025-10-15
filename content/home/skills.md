@@ -39,10 +39,4 @@ weight = 50
   name = "Statistics"
   description = ""  
 
-[[feature]]
-  icon = "chart-area"
-  icon_pack = "fas"
-  name = "Data Viz"
-  description = ""
-
 +++
