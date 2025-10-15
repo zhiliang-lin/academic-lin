@@ -14,7 +14,7 @@ subtitle = "Courses I have taught as a lecturer"
 weight = 60
 +++
 
-As a lecturer at Guangzhou Nanfang College, I have designed and taught the following courses:
+When serving as an instructor at Guangzhou Nanfang College, I have designed and taught the following courses:
 
 * ### Statistics for Communication Studies
     This course introduces fundamental statistical concepts and their application in communication research, covering descriptive statistics, probability, inference, regression, and ANOVA using Excel, SPSS and Python.
