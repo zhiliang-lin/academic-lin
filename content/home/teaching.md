@@ -11,7 +11,7 @@ title = "Teaching"
 subtitle = "Courses I have taught as an instructor"
 
 # Order that this section will appear in.
-weight = 60
+weight = 40
 +++
 
 When serving as an instructor at Guangzhou Nanfang College, I have designed and taught the following courses:

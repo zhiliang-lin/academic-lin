@@ -11,7 +11,7 @@ subtitle = ""
 
 # Order that this section will appear in.
 
-weight = 70
+weight = 60
 
 # Automatically link email and phone?
 
