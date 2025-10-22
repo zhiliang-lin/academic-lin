@@ -42,5 +42,5 @@ Guangchao Charles Feng., Xianglin Su., **Zhiliang Lin**., Yiru He., Nan Luo., & 
 
 Guangchao Charles Feng., Yuting Zhang., & **Zhiliang Lin**. (2019). *[A Meta-Analysis of the Effects of Sociodemographic Factors  on the Social Media Adoption](https://zhilianglin.com/files/A Meta-Analysis of the Effects of Sociodemographic Factors on Social Media Adoption.pdf)*. *International Journal of Communication*, *13*, 1996–2025. 
 
-**(in Chinese)** **Zhiliang Lin.** (2019). [*Your friends matter: A mediation model of Wechat use and school identity*](https://zhilianglin.com/files/Your friends matter.pdf). *New Media Research*, *06*, 17-22
+(*in Chinese*) **Zhiliang Lin.** (2019). [*Your friends matter: A mediation model of Wechat use and school identity*](https://zhilianglin.com/files/Your friends matter.pdf). *New Media Research*, *06*, 17-22
 
