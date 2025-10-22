@@ -45,7 +45,7 @@ weight = 10
 
 Hello, my name is Zhiliang Lin (林志良 :sound: [listen](http://www.zhilianglin.com/files/zhiliang-lin.ogg)). I am a quantitative researcher passionate about applying computational methods to understand human communication. 
 
-Currently, I am completing a [Subsequent Master of Science in Statistical Data Analysis](https://studiekiezer.ugent.be/2026/master-of-science-in-statistical-data-analysis-en) at Ghent University to deepen my expertise in advanced quantitative methodologies. Prior to my studies in Belgium, I was a  lecturer at Guangzhou Nanfang College, where I designed and taught courses in statistics for communication, new media data analysis, and web data scraping. I also served as a Research Associate at Shenzhen University, contributing to several data-intensive projects and co-authoring publications in SSCI-indexed journals.
+Currently, I am completing a [Subsequent Master of Science in Statistical Data Analysis](https://studiekiezer.ugent.be/2026/master-of-science-in-statistical-data-analysis-en) at Ghent University to deepen my expertise in advanced quantitative methodologies. Prior to my studies in Belgium, I was a  Teaching Associate at Guangzhou Nanfang College, where I designed and taught courses in statistics for communication, new media data analysis, and web data scraping. I also served as a Research Associate at Shenzhen University, contributing to several data-intensive projects and co-authoring publications in SSCI-indexed journals.
 
 This work builds on my academic foundation, which includes an M.A. in Communication from Jinan University and a B.A. in Journalism from the Southwestern University of Finance and Economics.
 
