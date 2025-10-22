@@ -1,3 +1,13 @@
+---
+title: "A New Parable of Sisyphus"
+date: 2025-10-22T10:00:00+02:00
+draft: false
+authors:
+  - Zhiliang Lin
+---
+
+## A New Parable of Sisyphus
+
 So, the story goes that the gods finally called off Sisyphus's punishment and set him free. He felt totally reborn! He immediately started trying to do all the things he'd been dreaming about back when he was stuck pushing that rock.
 
 But after a while, he started to get bored with... well, everything. This new, absolute freedom was just too much for him to handle. He'd wake up every morning and have no clue how to face the day.
