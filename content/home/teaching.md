@@ -14,7 +14,7 @@ subtitle = "Courses I have taught as an instructor"
 weight = 40
 +++
 
-When serving as an instructor at Guangzhou Nanfang College, I have designed and taught the following courses:
+When serving as an instructor at Guangzhou Nanfang College, I have designed and taught the following courses (click the link to see the sample material on Githu):
 
 * ### [Statistics for Communication Studies](https://github.com/zhiliang-lin/statistics-for-communication-studies)
     A foundational course in quantitative research for communication and social science students. The curriculum covers core concepts from descriptive statistics to regression analysis, with a hands-on focus on using SPSS and Python to prepare students for independent data analysis.
