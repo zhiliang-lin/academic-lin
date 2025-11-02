@@ -14,13 +14,14 @@ subtitle = "Courses I have taught as an instructor"
 weight = 40
 +++
 
-When serving as an instructor at Guangzhou Nanfang College, I have designed and taught the following courses. Sample materials for each are available via the linked GitHub repositories:
+When worked at Guangzhou Nanfang College, I have taught the following courses. Sample materials can be found on the linked GitHub repositories:
 
 * ### [Statistics for Communication Studies](https://github.com/zhiliang-lin/statistics-for-communication-studies)
-    A foundational course in quantitative research for communication students. The curriculum covers core concepts from descriptive statistics to regression analysis, with a hands-on focus on using SPSS and Python to prepare students for independent data analysis.
+    The course covers statistical concepts from descriptive statistics to regression analysis. I use Excel, SPSS and Python to learn and practice statistics.
 
 * ### [New Media Data Analysis](https://github.com/zhiliang-lin/new-media-data-analysis)
-    A practical introduction to the full data science workflow. In this tool-oriented course, students learn to import, clean, model, and visualize new media data using advanced Excel features such as Power Query and Power Pivot.
-
+    
+    This is a tool-oriented course, students are taught to analyze new media data using  Excel functions, Power Query and Power Pivot.
+    
 * ### [Web Data Scraping](https://github.com/zhiliang-lin/web-data-scraping)
-    A hands-on course on web data collection for research. Students progress from simple tools to advanced Python techniques, learning to extract data from both static pages and complex, dynamic sites using libraries like `pyquery` and `Selenium`.
+    Starting from using simple tools, this course in the later part used Python to extract data from both static pages and dynamic sites using libraries like `pyquery` and `Selenium`. Several projects 
