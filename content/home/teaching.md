@@ -24,4 +24,4 @@ When worked at Guangzhou Nanfang College, I have taught the following courses. S
     This is a tool-oriented course, students are taught to analyze new media data using  Excel functions, Power Query and Power Pivot.
     
 * ### [Web Data Scraping](https://github.com/zhiliang-lin/web-data-scraping)
-    Starting from using simple tools, this course in the later part used Python to extract data from both static pages and dynamic sites using libraries like `pyquery` and `Selenium`. Several projects 
+    Starting from using simple tools, this course in the later part used Python to extract data from both static pages and dynamic sites using libraries like `pyquery` and `Selenium`. 
