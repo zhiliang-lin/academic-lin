@@ -47,4 +47,4 @@ weight = 10
 
 I am currently working on a [Subsequent Master of Science in Statistical Data Analysis](https://studiekiezer.ugent.be/2026/master-of-science-in-statistical-data-analysis-en) at Ghent University to improve my knowledge of advanced quantitative methods. I have six years of work experience, including working as a Teaching Associate at Guangzhou Nanfang College and a Research Associate at Shenzhen University. I have a B.A. in Journalism from the Southwestern University of Finance and Economics and an M.A. in Communication from Jinan University.
 
-Outside of academia, I enjoy reading, running, gardening, and football. And I'm a big fan of the novel *The Story of Stone* and the football club Bayern Munich.
+Outside of academia, I enjoy reading, running, gardening, and football. And I'm a big fan of the novel *[The Story of  the Stone](https://www.goodreads.com/book/show/139874.The_Story_of_the_Stone_or_The_Dream_of_the_Red_Chamber_Vol_1)* and the football club Bayern Munich.
