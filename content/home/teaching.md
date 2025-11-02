@@ -17,7 +17,7 @@ weight = 40
 When worked at Guangzhou Nanfang College, I have taught the following courses. Sample materials can be found on the linked GitHub repositories:
 
 * ### [Statistics for Communication Studies](https://github.com/zhiliang-lin/statistics-for-communication-studies)
-    The course covers statistical concepts from descriptive statistics to regression analysis. I use Excel, SPSS and Python to learn and practice statistics.
+    The course covers statistical concepts from descriptive statistics to regression analysis. Students are taught to use Excel, SPSS and Python to learn and practice statistics.
 
 * ### [New Media Data Analysis](https://github.com/zhiliang-lin/new-media-data-analysis)
     
