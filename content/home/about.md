@@ -43,7 +43,7 @@ weight = 10
 
 # Biography
 
-🎉Hi, my name is Zhiliang Lin (林志良🔈 [listen](http://www.zhilianglin.com/files/zhiliang-lin.ogg)). I am a quantitative researcher who loves using statistical and computational methods to learn about how people communicate. 
+🎉Hi, my name is Zhiliang Lin (林志良🔈 [listen](http://www.zhilianglin.com/files/zhiliang-lin.ogg)). I am a quantitative researcher who loves using statistical and computational methods to understand social science issues. 
 
 I am currently working on a [Subsequent Master of Science in Statistical Data Analysis](https://studiekiezer.ugent.be/2026/master-of-science-in-statistical-data-analysis-en) at Ghent University to improve my knowledge of advanced quantitative methods. I have six years of work experience, including working as a Teaching Associate at Guangzhou Nanfang College and a Research Associate at Shenzhen University. I have a B.A. in Journalism from the Southwestern University of Finance and Economics and an M.A. in Communication from Jinan University.
 
