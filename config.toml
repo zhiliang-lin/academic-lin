@@ -361,3 +361,7 @@ enableGitInfo = false
 #    name = "林志良"
 #    url = "#about"
 #    weight = 1
+
+
+[security.funcs]
+  getenv = ['^HUGO_', '^CI$', 'WC_POST_CSS']
