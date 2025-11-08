@@ -6,3 +6,4 @@
   HUGO_VERSION = "0.134.2"
   HUGO_ENV = "production"
   HUGO_ENABLEGITINFO = "true"
+  GIT_SUBMODULES = ""
