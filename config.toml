@@ -1,3 +1,8 @@
+[module]
+  [[module.imports]]
+    path = "github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5"
+	
+
 # Configuration of Academic
 # Documentation: https://sourcethemes.com/academic/
 #
@@ -15,7 +20,7 @@ title = "Zhiliang Lin 林志良"
 # To display a copyright symbol, type `&copy;`.
 copyright = "&copy; 2025"
 
-theme = "academic"
+# theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
@@ -321,8 +326,8 @@ enableGitInfo = false
   #   0: No search engine
   #   1: Built-in (Fuse)
   #   2: Algolia (https://www.algolia.com)
-  engine = 1
-
+  #engine = 1
+    provider = "wowchemy"
   # Configuration of Algolia search engine.
   # Paste the values from your Algolia dashboard.
   [params.search.algolia]
