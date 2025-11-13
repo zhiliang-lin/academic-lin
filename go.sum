@@ -1,14 +1,4 @@
-github.com/HugoBlox/hugo-blox-builder v4.7.0+incompatible h1:hIKNsRB7kilRjKjuz3FnkGfhNQ3zVIPWpjlqWRUpjW4=
-github.com/HugoBlox/hugo-blox-builder v4.7.0+incompatible/go.mod h1:3C9hKOYOtf0+znF3c7FXNSOgeORqT8bZyDDH1Y9CW1k=
-github.com/HugoBlox/hugo-blox-builder v4.8.0+incompatible h1:oMwV/skr0Abv0X6G2sEhqMJpEP08BZtHKcuJDdE6xJE=
-github.com/HugoBlox/hugo-blox-builder v4.8.0+incompatible/go.mod h1:3C9hKOYOtf0+znF3c7FXNSOgeORqT8bZyDDH1Y9CW1k=
-github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5 v5.9.7 h1:QPek2BL723n+uM4DjyV97qNIoPsmt/vnKAQyaGJbgvQ=
-github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5 v5.9.7/go.mod h1:xZiTEEurbEwj/NhZohozvlyLCGVCT2wARHDAJeqKG/c=
-github.com/HugoBlox/hugo-blox-builder/modules/blox-core v0.3.1/go.mod h1:So8+V2U+TNxlXmcpZfdDX0muLh3PdJ7z92h30sv3bZg=
-github.com/HugoBlox/hugo-blox-builder/modules/blox-core v0.4.1 h1:LAIEtt5FVZVJoKVmZ+rB/M5exoek52ksCEK12HWssIo=
-github.com/HugoBlox/hugo-blox-builder/modules/blox-core v0.4.1/go.mod h1:So8+V2U+TNxlXmcpZfdDX0muLh3PdJ7z92h30sv3bZg=
 github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify v1.1.2 h1:rgavbaIjA9ki73sJ9OkE/yIdUYF2AJALs6NzCg6kC60=
 github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify v1.1.2/go.mod h1:C7jfxMLv1bEUqbM9XDSmEpfOpS8w06OgqNDEcbuRgL4=
-github.com/HugoBlox/hugo-blox-builder/modules/blox-seo v0.2.2/go.mod h1:NsESu6cEms1DgH84icCyylElg2Zu8A0f7Fma5JR0LZE=
 github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind v0.10.0 h1:LZnRHMenSA0UJqVGKS3Unk+W+y2IDiYRzdCaGueoFzc=
 github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind v0.10.0/go.mod h1:iiKLoehg9IqQd0R4jUfhl+wvJCiXPNgV88A/V8iKSLY=
