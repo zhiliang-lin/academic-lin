@@ -10,8 +10,9 @@ enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 preserveTaxonomyNames = true
-paginate = 10
-
+[pagination]
+  pagerSize = 10
+  
 disqusShortname = ""
 defaultContentLanguage = "en"
 hasCJKLanguage = true
