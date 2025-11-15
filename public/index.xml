@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhiliang Lin 林志良</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Zhiliang Lin 林志良</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2025</copyright>
+    <lastBuildDate>Wed, 22 Oct 2025 10:00:00 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/home/hero_carousel/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/hero_carousel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/about/</guid>
+      <description>&lt;h1 id=&#34;biography&#34;&gt;Biography&lt;/h1&gt;&#xA;&lt;p&gt;🎉Hi, my name is Zhiliang Lin&lt;p&gt; (林志良🔈&lt;audio id=&#34;namePronunciation&#34; src=&#34;http://www.zhilianglin.com/files/zhiliang-lin.ogg&#34;&gt;&lt;/audio&gt;  &lt;a href=&#34;#&#34; onclick=&#34;document.getElementById(&#39;namePronunciation&#39;).play(); return false;&#34;&gt;listen&lt;/a&gt;)&lt;/p&gt;. I am a quantitative researcher who loves using statistical and computational methods to understand social science issues.&lt;/p&gt;&#xA;&lt;p&gt;I am currently undertaking a &lt;a href=&#34;https://studiekiezer.ugent.be/2026/master-of-science-in-statistical-data-analysis-en&#34;&gt;Subsequent Master of Science in Statistical Data Analysis&lt;/a&gt; at Ghent University to improve my knowledge of advanced quantitative methods. I have six years of work experience, including working as a Teaching Associate at Guangzhou Nanfang College and a Research Associate at Shenzhen University. I have a B.A. in Journalism from the Southwestern University of Finance and Economics and an M.A. in Communication from Jinan University.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Selected Publications</title>
+      <link>http://localhost:1313/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Experience</title>
+      <link>http://localhost:1313/home/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/experience/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Selected Talks</title>
+      <link>http://localhost:1313/home/talks_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/talks_selected/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Publications</title>
+      <link>http://localhost:1313/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/publications/</guid>
+      <description>&lt;p&gt;Guangchao Charles Feng., Xianglin Su., &lt;strong&gt;Zhiliang Lin&lt;/strong&gt;., Yiru He., Nan Luo., &amp;amp; Yuting Zhang. (2021). [Determinants of technology acceptance: Two modeling-based meta-analytic reviews](&lt;a href=&#34;https://zhilianglin.com/files/Determinants&#34;&gt;https://zhilianglin.com/files/Determinants&lt;/a&gt; of technology acceptance Two modeling-based meta-analytic reviews.pdf). &lt;em&gt;Journalism &amp;amp; Mass Communication Quarterly&lt;/em&gt;, 98 (1), 83-104.&lt;/p&gt;&#xA;&lt;p&gt;Guangchao Charles Feng., &lt;strong&gt;Zhiliang Lin&lt;/strong&gt;., Xianglin Su., &amp;amp; Wanhua Ou. (2021). [A Model-based Meta-analysis of Willingness to Participate in Cancer Screening](&lt;a href=&#34;https://zhilianglin.com/files/A&#34;&gt;https://zhilianglin.com/files/A&lt;/a&gt; Model-based Meta-analysis of Willingness to Participate in Cancer Screening.pdf). &lt;em&gt;International Journal of Environmental Research and Public Health&lt;/em&gt;, 18(5), 2580.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>http://localhost:1313/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/talks/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Teaching</title>
+      <link>http://localhost:1313/home/teaching/</link>
+      <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/teaching/</guid>
+      <description>&lt;p&gt;While working at Guangzhou Nanfang College, I have taught the following courses. Sample materials can be found on the linked GitHub repositories:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;h3 id=&#34;statistics-for-communication-studies&#34;&gt;&lt;a href=&#34;https://github.com/zhiliang-lin/statistics-for-communication-studies&#34;&gt;Statistics for Communication Studies&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;The course covers statistical concepts from descriptive statistics to regression analysis. Students are taught to use Excel, SPSS and Python to learn and practice statistics.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;h3 id=&#34;new-media-data-analysis&#34;&gt;&lt;a href=&#34;https://github.com/zhiliang-lin/new-media-data-analysis&#34;&gt;New Media Data Analysis&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;This is a tool-oriented course, students are taught to analyze new media data using  Excel functions, Power Query and Power Pivot.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Skills</title>
+      <link>http://localhost:1313/home/skills/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/skills/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/projects/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/contact/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tags</title>
+      <link>http://localhost:1313/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/tags/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Search</title>
+      <link>http://localhost:1313/home/search/</link>
+      <pubDate>Mon, 23 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/search/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Recent Posts</title>
+      <link>http://localhost:1313/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/posts/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>A New Parable of Sisyphus</title>
+      <link>http://localhost:1313/post/a-new-parable-of-sisyphus/</link>
+      <pubDate>Wed, 22 Oct 2025 10:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/post/a-new-parable-of-sisyphus/</guid>
+      <description>&lt;h2 id=&#34;a-new-parable-of-sisyphus&#34;&gt;A New Parable of Sisyphus&lt;/h2&gt;&#xA;&lt;p&gt;So, the story goes that the gods finally called off Sisyphus&amp;rsquo;s punishment and set him free. He felt totally reborn! He immediately started trying to do all the things he&amp;rsquo;d been dreaming about back when he was stuck pushing that rock.&lt;/p&gt;&#xA;&lt;p&gt;But after a while, he started to get bored with&amp;hellip; well, everything. This new, absolute freedom was just too much for him to handle. He&amp;rsquo;d wake up every morning and have no clue how to face the day.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

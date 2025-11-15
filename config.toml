@@ -4,7 +4,31 @@
 baseurl = "https://www.zhilianglin.com/"
 title = "Zhiliang Lin 林志良"
 copyright = "&copy; 2025"
-theme = "academic" # Hugo Academic theme
+# theme = "academic" # Hugo Academic theme
+
+[module]
+  # Import the specific HugoBlox modules
+  [[module.imports]]
+    path = "github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-core"
+  [[module.imports]]
+    path = "github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind"
+
+  # Mounts for libraries...
+  [[module.imports.mounts]]
+    source = "node_modules/katex/dist"
+    target = "static/katex"
+  [[module.imports.mounts]]
+    source = "node_modules/highlight.js/styles"
+    target = "static/styles"
+  [[module.imports.mounts]]
+    source = "node_modules/mermaid/dist"
+    target = "static/mermaid"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true  # Allow raw HTML
+
 
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -42,7 +66,7 @@ enableGitInfo = false
   address = { city = "Ghent", country = "Belgium", country_code = "BE" }
   map = 0
 
-  color_theme = "forest"
+#  color_theme = "forest"
   font = "default"
   description = ""
   sharing_image = ""
